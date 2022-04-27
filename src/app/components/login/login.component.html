@@ -1,0 +1,45 @@
+<div class="container" [hidden]="signUpBtn">
+  <form #frmLogin="ngForm">
+    <h1>Login</h1>
+    <table>
+      <tr>
+        <td>
+          <label for="email">Email</label>
+        </td>
+        <td>
+          <input type="text" [(ngModel)]="loginData.email" #email="ngModel" required
+            pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,5}$" name="email"/>
+        </td>
+        <td>
+          <span [hidden]="email.valid || email.pristine">&nbsp; Email adress is invalid</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label for="psw">Password</label>
+        </td>
+        <td>
+          <input type="password" [(ngModel)]="loginData.password" #password="ngModel" required pattern="[A-Za-z0-9]{6,16}"
+            name="password"/>
+        </td>
+        <td>
+          <span [hidden]="password.valid || password.pristine">&nbsp; Password must contain 6-16 characters</span>
+        </td>
+      </tr>
+      <button type="submit" class="btn btn-primary" (click)="sendLogin()" [disabled]="!frmLogin.form.valid">
+        Log In
+      </button>
+    </table>
+  </form>
+  If you have not registered yet:
+  <button mat-button (click)="signUpClicked()">
+    Sign Up
+  </button>
+</div>
+<div class="container" [hidden]="!signUpBtn">
+  <sign-up></sign-up>
+  Back to:
+  <button mat-button (click)="signUpClicked()">
+    Log In
+  </button>
+</div>

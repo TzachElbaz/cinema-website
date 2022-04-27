@@ -1,0 +1,37 @@
+<div class="modal">
+  <div class="modal-content">
+    <div class="content">
+      <span class="close" (click)="closeForm()">&times;</span>
+      <h1>Order Tickets</h1>
+      <h3>{{selectedMovie.title}}</h3>
+      <form #frmOrder="ngForm">
+        <table>
+          <tr>
+            <td>
+              Choose Screening
+            </td>
+            <td>
+              <select #screenings>
+                <option *ngFor="let i of screeningOptions" value={{i.screeningId}}>
+                  {{i.day}}, {{i.date|date: 'dd/MM/yy'}}, {{i.hour}}
+                </option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Number Of Tickets
+            </td>
+            <td>
+              <input type="number" #tickets="ngModel" [(ngModel)]="order.numberOfTickets" #Tickets="ngModel" required
+                pattern="[1-8]{1}" name="tickets" />
+            </td>
+          </tr>
+          <button class="btn btn-primary" (click)="newOrder(+screenings.value)" [disabled]="!frmOrder.form.valid">
+            Order
+          </button>
+        </table>
+      </form>
+    </div>
+  </div>
+</div>

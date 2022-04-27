@@ -1,0 +1,92 @@
+<div class="container">
+  <form #frmSignup="ngForm">
+    <h1>Sign Up</h1>
+    <table>
+      <tr>
+        <td>
+          <label>ID</label>
+        </td>
+        <td>
+          <input type="text" [(ngModel)]="client.clientId" #ID="ngModel" required pattern="[0-9]{9}" name="clientId" />
+        </td>
+        <td>
+          <span [hidden]="ID.valid || ID.pristine">&nbsp; ID is required</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label>First Name</label>
+        </td>
+        <td>
+          <input type="text" [(ngModel)]="client.firstName" #fName="ngModel" required pattern="[a-zA-Zא-ת]{2,20}"
+            name="fname" />
+        </td>
+        <td>
+          <span [hidden]="fName.valid || fName.pristine">&nbsp; First Name is required</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label>Last Name</label>
+        </td>
+        <td>
+          <input type="text" [(ngModel)]="client.lastName" #lName="ngModel" required pattern="[a-zA-Zא-ת]{2,20}"
+            name="lname" />
+        </td>
+        <td>
+          <span [hidden]="lName.valid || lName.pristine">&nbsp; Last Name is required</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label>Email</label>
+        </td>
+        <td>
+          <input type="text" [(ngModel)]="client.email" #email="ngModel" required
+            pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,5}$" name="email" />
+        </td>
+        <td>
+          <span [hidden]="email.valid || email.pristine">&nbsp; Email adress is invalid</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label>Password</label>
+        </td>
+        <td>
+          <input type="password" [(ngModel)]="client.password" #password="ngModel" required pattern="[A-Za-z0-9]{6,16}"
+            name="password" />
+        </td>
+        <td>
+          <span [hidden]="password.valid || password.pristine">&nbsp; Password must contain 6-16 characters</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label>Phone Number</label>
+        </td>
+        <td>
+          <input type="text" [(ngModel)]="client.phone" #phone="ngModel" pattern="[0-9]{10}" name="phone" />
+        </td>
+        <td>
+          <span [hidden]="phone.valid || phone.pristine">&nbsp; Phone Number is invalid</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label>Credit Card Number &nbsp;</label>
+        </td>
+        <td>
+          <input type="text" [(ngModel)]="client.creditCardNumber" #creditcard="ngModel" required pattern="[0-9]{16}"
+            name="card" />
+        </td>
+        <td>
+          <span [hidden]="creditcard.valid || creditcard.pristine">&nbsp; Credit Card Number is invalid</span>
+        </td>
+      </tr>
+      <button (click)="postNewUser()" [disabled]="!frmSignup.form.valid" class="btn btn-primary">
+        Sign Up
+      </button>
+    </table>
+  </form>
+</div>

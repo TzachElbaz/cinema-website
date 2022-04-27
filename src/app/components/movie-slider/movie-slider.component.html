@@ -1,0 +1,59 @@
+<div class="row">
+  <div class="col">
+    <carousel [cellsToShow]="3" [cellsToScroll]="1" [height]="650" class="carousel--slider-alignment">
+      <div class="carousel-cell" *ngFor="let i of allMovies">
+        <div class="card">
+          <img class="card-img-top" src="{{i.posterPhoto}}" style="width:100%" />
+          <div class="card-body">
+          <h2 class="card-title">{{i.title}}</h2>
+          <h4 class="subtitle">{{i.director}}, {{i.movieLength}}</h4>
+              <p class="card-text">
+                {{i.summary}}
+              </p>
+              <button class="btn btn-primary" (click)="orderNowClicked(i.movieId, i.numberOfScreenings, i.title)">
+                Order Now
+              </button>
+          </div>
+        </div>
+      </div>
+    </carousel>
+  </div>
+</div>
+
+<div class="modal" [hidden]="!btnClicked">
+  <div class="modal-content">
+    <div class="content">
+      <span class="close" (click)="closeForm()">&times;</span>
+      <h1>Order Tickets</h1>
+      <h3>{{selectedMovie.title}}</h3>
+      <form #frmOrder="ngForm">
+        <table>
+          <tr>
+            <td>
+              Choose Screening
+            </td>
+            <td>
+              <select #screenings>
+                <option *ngFor="let i of screeningOptions" value={{i.screeningId}}>
+                  {{i.day}}, {{i.date|date: 'dd/MM/yy'}}, {{i.hour}}
+                </option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Number Of Tickets
+            </td>
+            <td>
+              <input type="number" #tickets="ngModel" [(ngModel)]="order.numberOfTickets" #Tickets="ngModel" required
+                pattern="[1-8]{1}" name="tickets" />
+            </td>
+          </tr>
+          <button class="btn btn-primary" (click)="newOrder(+screenings.value)" [disabled]="!frmOrder.form.valid">
+            Order
+          </button>
+        </table>
+      </form>
+    </div>
+  </div>
+</div>

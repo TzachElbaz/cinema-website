@@ -1,0 +1,26 @@
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.deps.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.runtimeconfig.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.runtimeconfig.dev.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.csproj.AssemblyReference.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.AssemblyInfoInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.AssemblyInfo.cs
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.csproj.CoreCompileInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.genruntimeconfig.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.deps.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.runtimeconfig.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.runtimeconfig.dev.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.csproj.AssemblyReference.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.AssemblyInfoInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.AssemblyInfo.cs
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.csproj.CoreCompileInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Bll to dbCinema\obj\Debug\netcoreapp3.1\Bll to dbCinema.genruntimeconfig.cache

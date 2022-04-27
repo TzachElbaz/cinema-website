@@ -1,0 +1,62 @@
+<mat-toolbar color="primary" class="toolbar">
+  <a href=".">
+    <button mat-icon-button (click)="refresh()">
+      <mat-icon>home</mat-icon>
+    </button>
+  </a>
+  <span>{{title}}</span>
+  <span class="spacer"></span>
+  <div class="search-container">
+      <input type="text" placeholder="Search..."
+      [formControl]="control" [matAutocomplete]="auto"
+      [(ngModel)]="filterKey"/>
+      <mat-autocomplete #auto="matAutocomplete">
+        <mat-option *ngFor="let i of allMovies" value={{i.title}}>
+          <a [routerLink]="'newOrder'" class="searching-link" (click)="orderTickets(i.movieId,i.title)">
+            {{i.title|searchingFilter:filterKey}}
+          </a>
+        </mat-option>
+      </mat-autocomplete>
+  </div>
+  <a [routerLink]="'login'">
+    <button mat-icon-button>
+      <mat-icon>perm_identity</mat-icon>
+    </button>
+  </a>
+  <button mat-icon-button [matMenuTriggerFor]="menu">
+    <mat-icon>menue</mat-icon>
+  </button>
+  <mat-menu #menu="matMenu">
+    <a [routerLink]="'signup'">
+      <button mat-menu-item>
+        Sign Up
+      </button>
+    </a>
+    <a [routerLink]="'editUser'">
+      <button mat-menu-item>
+        User Area
+      </button>
+    </a>
+    <button mat-menu-item [matMenuTriggerFor]="admin" [hidden]="role!='Admin'">Admin</button>
+    <mat-menu #admin="matMenu">
+      <a [routerLink]="'addMovie'">
+        <button mat-menu-item>
+          Add New Movie
+        </button>
+      </a>
+      <a [routerLink]="'addScreening'">
+        <button mat-menu-item>
+          Edit Movies
+        </button>
+      </a>
+    </mat-menu>
+  </mat-menu>
+</mat-toolbar>
+
+<div class="container" id="content">
+  <div class="row">
+    <div class="col">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>

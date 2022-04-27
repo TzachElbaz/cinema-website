@@ -1,0 +1,20 @@
+<div class="container">
+  <h1>Order successfully completed &nbsp;<mat-icon>done_outline</mat-icon></h1>
+  <div class="details">
+    <h3>Order Details</h3>
+    <table>
+      <tr>
+        <td>
+          <mat-icon>theaters</mat-icon>
+        </td>
+        <td>
+          Order Number: {{userOrders.orderNumber}},&nbsp;
+          Tickets: {{userOrders.tickets}},&nbsp;
+          Date: {{userOrders.orderDate}}, {{userOrders.orderTime}},&nbsp;
+          <b>{{userOrders.movieTitle}}</b>.
+        </td>
+      </tr>
+    </table>
+  </div>
+  <br/><button class="btn btn-primary" (click)="backHome()">back to HOME PAGE</button>
+</div>

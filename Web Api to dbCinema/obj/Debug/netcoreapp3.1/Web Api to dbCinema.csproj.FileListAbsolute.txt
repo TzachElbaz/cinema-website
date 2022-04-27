@@ -1,0 +1,129 @@
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.exe
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.deps.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.runtimeconfig.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.runtimeconfig.dev.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.csproj.AssemblyReference.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.AssemblyInfoInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.AssemblyInfo.cs
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.csproj.CoreCompileInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\staticwebassets\Web Api to dbCinema.StaticWebAssets.Manifest.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\staticwebassets\Web Api to dbCinema.StaticWebAssets.xml
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web Api to dbCinema.styles.css
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.RazorTargetAssemblyInfo.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.genruntimeconfig.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Web Api to dbCinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.csproj.CopyComplete
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.exe
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.deps.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.runtimeconfig.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.runtimeconfig.dev.json
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Web Api to dbCinema.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Bll to dbCinema.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.csproj.AssemblyReference.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.AssemblyInfoInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.AssemblyInfo.cs
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.csproj.CoreCompileInputs.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\staticwebassets\Web Api to dbCinema.StaticWebAssets.Manifest.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\staticwebassets\Web Api to dbCinema.StaticWebAssets.xml
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web Api to dbCinema.styles.css
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.RazorTargetAssemblyInfo.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.csproj.CopyComplete
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.dll
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.pdb
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\obj\Debug\netcoreapp3.1\Web Api to dbCinema.genruntimeconfig.cache
+C:\Users\tsahe\OneDrive\מסמכים\John Bryce\Full Stack Project\Cinema\Web Api to dbCinema\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

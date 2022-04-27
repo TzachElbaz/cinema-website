@@ -1,0 +1,52 @@
+<div class="container">
+  <form #frmAddmovie="ngForm">
+    <h1>Add Movie</h1>
+    <div class="row">
+      <div class="col-25">
+        <label>Title</label>
+      </div>
+      <div class="col-75">
+        <input type="text" [(ngModel)]="movie.Title" #title="ngModel" required pattern="[a-zA-Z\s]{2,50}" name="title" />
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label>Director &nbsp;</label>
+      </div>
+      <div class="col-75">
+        <input type="text" [(ngModel)]="movie.Director" #director="ngModel" required pattern="[a-zA-Z\s]{2,50}"
+          name="director" />
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label>Movie Length</label>
+      </div>
+      <div class="col-75">
+        <input type="time" [(ngModel)]="movie.MovieLength" #length="ngModel" name="length" required/>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label>Add Photo &nbsp;</label>
+      </div>
+      <div class="col-75">
+        <input type="file" (change)="onFileUpload($event)" />
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label> summary</label>
+      </div>
+      <div class="col-75">
+        <textarea [(ngModel)]="movie.Summary" #summary="ngModel" required pattern="[a-zA-Z\s]{2,200}"
+          name="summary"></textarea>
+      </div><br />
+    </div>
+    <div class="row">
+      <button (click)="addMovie()" class="btn btn-primary" [disabled]="!frmAddmovie.form.valid">
+        Add Movie
+      </button>
+    </div>
+  </form>
+</div>

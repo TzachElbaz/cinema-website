@@ -1,0 +1,89 @@
+<div class="container">
+  <div class="details">
+    <h1>
+      {{userData.firstName}} {{userData.lastName}}
+      <button mat-icon-button (click)="showEdit()" [hidden]="editBtn">
+        <mat-icon>edit</mat-icon>
+      </button>
+    </h1>
+    <form #frmEditUser="ngForm">
+      <table>
+        <tr>
+          <td>
+            <mat-icon>email</mat-icon>
+          </td>
+          <td [hidden]="editBtn">
+            {{userData.email}}
+          </td>
+          <td [hidden]="!editBtn">
+            <input type="text" [(ngModel)]="userData.email" #email="ngModel" required
+            pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,5}$" name="email"/>
+          </td>
+          <td>
+            <span [hidden]="email.valid">&nbsp; Email adress is invalid</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <mat-icon>lock</mat-icon>
+          </td>
+          <td [hidden]="editBtn">
+            {{userData.password}}
+          </td>
+          <td [hidden]="!editBtn">
+            <input type="text" [(ngModel)]="userData.password" #password="ngModel" required pattern="[A-Za-z0-9]{6,16}"
+            name="password" />
+          </td>
+          <td>
+            <span [hidden]="password.valid">&nbsp; Password must contain 6-16 characters</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <mat-icon>phone</mat-icon>
+          </td>
+          <td [hidden]="editBtn">
+            {{userData.phone}}
+          </td>
+          <td [hidden]="!editBtn">
+            <input type="text" [(ngModel)]="userData.phone" #phone="ngModel" pattern="[0-9]{10}" name="phone"/>
+          </td>
+          <td>
+            <span [hidden]="phone.valid">&nbsp; Phone Number is invalid</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <mat-icon>credit_card</mat-icon>
+          </td>
+          <td [hidden]="editBtn">
+            {{userData.creditCardNumber}}
+          </td>
+          <td [hidden]="!editBtn">
+            <input type="text" [(ngModel)]="userData.creditCardNumber" #creditcard="ngModel" required pattern="[0-9]{16}"
+            name="card"/>
+          </td>
+          <td>
+            <span [hidden]="creditcard.valid || creditcard.pristine">&nbsp; Credit Card Number is invalid</span>
+          </td>
+        </tr>
+        <button mat-icon-button (click)="saveCahnges()" [hidden]="!editBtn" [disabled]="!frmEditUser.form.valid">
+          <mat-icon>save</mat-icon> Save Changes
+        </button>
+      </table>
+    </form>
+  </div>
+  <div class="orders" *ngIf="userOrders">
+    <h2>orders</h2>
+    <ul *ngFor="let i of userOrders">
+      <li>
+        <mat-icon>event</mat-icon>
+        Order Number: {{i.orderNumber}},&nbsp;
+        Tickets: {{i.tickets}},&nbsp;
+        Date: {{i.orderDate}}, {{i.orderTime}},&nbsp;
+        <b>{{i.movieTitle}}</b>.
+      </li>
+    </ul>
+  </div>
+  <button mat-flat-button color="warn"(click)="logOut()">Log Out</button>
+</div>

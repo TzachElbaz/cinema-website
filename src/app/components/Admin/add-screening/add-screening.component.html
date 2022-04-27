@@ -1,0 +1,46 @@
+<div class="container">
+  <h1>Edit Movies And Screenings</h1>
+  <select #movieTitle (change)="getScreenings(+movieTitle.value)">
+    <option [hidden]="screenings">Select a movie</option>
+    <option *ngFor="let i of allMovies" value={{i.movieId}}>
+      {{i.title}}
+    </option>
+  </select><br />
+  <div *ngIf="screenings">
+    <form #frmScreenings="ngForm">
+      <table>
+        <th>day</th>
+        <th>date</th>
+        <th>hour</th>
+        <tr *ngFor="let i of screenings">
+          <td>{{i.day}}</td>
+          <td>{{i.date|date:'dd/MM/yy'}}</td>
+          <td>{{i.hour}}</td>
+          <td>
+            <button (click)="deleteScreening(i.screeningId)" mat-icon-button>
+              <mat-icon>delete_outline</mat-icon>
+            </button>
+          </td>
+        </tr>
+        <tr><br /></tr>
+        <tr>
+          <td>New Screening</td>
+          <td><input type="date" #date="ngModel" [(ngModel)]="order.date" name="date" required min={{today}}></td>
+          <td>
+            <input type="time" #hour="ngModel" [(ngModel)]="order.time" name="time" required/>
+          </td>
+          <td>
+            <button (click)="postNewScreening()" class="btn btn-primary" [disabled]="!frmScreenings.form.valid">
+              Add Screening
+            </button>
+          </td>
+        </tr>
+        <tr>
+            <button mat-flat-button color="warn" (click)="deleteMovie()">
+              Remove Movie
+            </button>
+        </tr>
+      </table>
+    </form>
+  </div>
+</div>
